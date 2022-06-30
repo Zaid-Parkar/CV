@@ -1,2 +1,3 @@
 # CV
-Made CV using HTML 
+Built website using HTML 
+link : https://zaid-parkar.github.io/CV/
